@@ -1,1 +1,3 @@
-git add .
+git add . // pega todos os arquivos alterados ou criados
+git commit -m "(09/02) inicio revisão da revisão de JS" // adiciona o comentario
+git push origin master // faz ir pro github
